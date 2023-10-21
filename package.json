@@ -24,13 +24,13 @@
   "contributes": {
     "commands": [
       {
-        "command": "goto-folder.go-to-folder",
+        "command": "goto-folder.find-folder",
         "title": "Go to Folder..."
       }
     ],
     "keybindings": [
       {
-        "command": "goto-folder.go-to-folder",
+        "command": "goto-folder.find-folder",
         "key": "shift+ctrl+alt+m",
         "mac": "shift+cmd+opt+m"
       }

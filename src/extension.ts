@@ -65,7 +65,7 @@ export function activate(context: vscode.ExtensionContext) {
   const updateQuickOptionsDebounced = debounce(updateQuickOptions, 500);
 
   let disposable = vscode.commands.registerCommand(
-    "goto-folder.go-to-folder",
+    "goto-folder.find-folder",
     () => {
       const quickPick = vscode.window.createQuickPick<FolderQuickPickItem>();
       quickPick.placeholder = "Search folders by name";
