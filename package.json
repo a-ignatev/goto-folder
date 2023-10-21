@@ -27,6 +27,13 @@
         "command": "goto-folder.go-to-folder",
         "title": "Go to Folder..."
       }
+    ],
+    "keybindings": [
+      {
+        "command": "goto-folder.go-to-folder",
+        "key": "shift+ctrl+alt+m",
+        "mac": "shift+cmd+opt+m"
+      }
     ]
   },
   "scripts": {

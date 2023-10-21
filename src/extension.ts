@@ -56,7 +56,7 @@ export function activate(context: vscode.ExtensionContext) {
 
     searchStream.on("end", () => {
       if (quickPick.items.length === 0) {
-        quickPick.title = "Nothing was found.";
+        quickPick.title = "No matching results";
       }
       quickPick.busy = false;
     });
@@ -68,6 +68,7 @@ export function activate(context: vscode.ExtensionContext) {
     "goto-folder.go-to-folder",
     () => {
       const quickPick = vscode.window.createQuickPick<FolderQuickPickItem>();
+      quickPick.placeholder = "Search folders by name";
 
       quickPick.onDidAccept(() => {
         controller.abort();
