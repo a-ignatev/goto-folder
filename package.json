@@ -1,7 +1,7 @@
 {
   "name": "goto-folder",
-  "displayName": "goto-folder",
-  "description": "",
+  "displayName": "Go to Folder",
+  "description": "Hop over to any folder you want by simply typing its name.",
   "version": "0.0.2",
   "publisher": "andrei-ignatev",
   "license": "MIT",
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "navigation",
-    "goto"
+    "goto",
+    "quick open"
   ],
   "engines": {
     "vscode": "^1.83.0"
