@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "publisher": "andrei-ignatev",
   "license": "MIT",
+  "icon": "resources/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/a-ignatev/goto-folder.git"
