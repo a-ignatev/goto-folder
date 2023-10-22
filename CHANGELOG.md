@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/a-ignatev/goto-folder/compare/v0.0.1...v0.0.2) (2023-10-22)
+
+
+### Features
+
+* add keybinding and improve texts ([c5750e5](https://github.com/a-ignatev/goto-folder/commit/c5750e548bba0d8c6c898b387916d0fb0ad25504))
+
 ### 0.0.1 (2023-10-21)
 
 # Change Log

@@ -2,7 +2,7 @@
   "name": "goto-folder",
   "displayName": "goto-folder",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "andrei-ignatev",
   "license": "MIT",
   "icon": "resources/icon.png",
