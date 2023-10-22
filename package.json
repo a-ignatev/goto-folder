@@ -1,6 +1,6 @@
 {
   "name": "goto-folder",
-  "displayName": "Go to Folder",
+  "displayName": "Quick Open Folder",
   "description": "Hop over to any folder you want by simply typing its name.",
   "version": "0.0.3",
   "publisher": "andrei-ignatev",
