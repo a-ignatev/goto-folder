@@ -1,6 +1,6 @@
+import vscode from "vscode";
+import debounce from "debounce";
 import { globStream } from "glob";
-import * as vscode from "vscode";
-import * as debounce from "debounce";
 import { getExcludedPaths } from "./getExcludedPaths";
 import { getWorkspaceRoot } from "./getWorkspaceRoot";
 
