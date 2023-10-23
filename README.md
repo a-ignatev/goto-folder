@@ -7,8 +7,8 @@ Quick Open Folder is a Visual Studio Code extension that makes it a breeze to ho
 # Features
 
 - To initiate a quick open for the folder navigation, use this shortcut:
-  - `CTRL + SHIFT + ALT + M` on Win / Linux
-  - `CMD + SHIFT + ALT + M` on Mac
+  - Win / Linux: `CTRL + SHIFT + ALT + M`
+  - Mac: `CMD + SHIFT + OPT + M`
 
 # TODO
 
