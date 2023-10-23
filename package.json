@@ -2,7 +2,7 @@
   "name": "goto-folder",
   "displayName": "Quick Open Folder",
   "description": "Hop over to any folder you want by simply typing its name.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "andrei-ignatev",
   "license": "MIT",
   "icon": "resources/icon.png",
